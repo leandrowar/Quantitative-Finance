@@ -25,10 +25,11 @@ plot(BVSP_RET)
 cor(GGBR4_RET,USIM5_RET)
 hist(GGBR4_RET)
 
-install.packages("nortest")
-library(nortest)
+#install.packages("nortest")
+#library(nortest)
 
-ad.test(GGBR4_RET)
+shapiro.test(as.numeric(GGBR4_RET))
+#ad.test(GGBR4_RET)
 qqnorm(GGBR4_RET)
 qqline(GGBR4_RET, col = 2)
 
