@@ -1,11 +1,8 @@
-Estatísticas curiosas sobre o Bitcoin
+Support Vector Machine (SVM) para Trading - Finanças Quantitativas
 =====================
 
- Você sabia que a quantidade de candles verdes e vermelhos foi praticamente a mesma nos últimos 5 anos? E que o Bitcoin tende a cair no final de semana para subir na segunda e na terça-feira?
-
- Descubra estas estatísticas curiosas com o download da planilha contendo dados históricos assistindo ao meu vídeo!
-Cotação histórica do Bitcoin atualizada até 31.08.2017
+ Neste vídeo trago uma demonstração prática de como aplicar SVM para trading em 3 diferentes mercados, com uma discussão sobre variáveis e comparação de performance com o Buy & Hold e uma regressão linear.
  
- Disponivel em: https://www.outspokenmarket.com/blog/estatisticas-curiosas-sobre-o-bitcoin
+ Disponivel em: https://www.outspokenmarket.com/blog/support-vector-machine-svm-para-trading-financas-quantitativas
 
  Autor: Leandro Guerra - https://www.linkedin.com/in/leandroguerra1/
