@@ -10,11 +10,11 @@
   <p align="center">
     Arquivos da playlist de Finanças Quantitativas
     <br />
-    <a href="https://github.com/leandrowar/Computational-Finance"><strong>Consulte-os»</strong></a>
+    <a href="https://github.com/leandrowar/Computational-Finance"><strong>Consulte-os - </strong></a>
     <br />
     <br />
-    <a href="https://www.youtube.com/watch?v=6FuxBxxE1BY&list=PLudZsmb7OiyAGXp-oUohZAOVDmUUfJEwd">Confira as aulas</a>
-    <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/issues">Achou algum Bug</a>
+    <a href="https://www.youtube.com/watch?v=6FuxBxxE1BY&list=PLudZsmb7OiyAGXp-oUohZAOVDmUUfJEwd">Confira as aulas - </a>
+    <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/issues">Achou algum Bug - </a>
     <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/issues">Solicite alguma mudança</a>
   </p>
 </p>
