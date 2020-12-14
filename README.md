@@ -10,14 +10,12 @@
   <p align="center">
     Arquivos da playlist de Finanças Quantitativas
     <br />
-    <a href="https://github.com/leandrowar/Computational-Finance"><strong>Consulte-osÂ»</strong></a>
+    <a href="https://github.com/leandrowar/Computational-Finance"><strong>Consulte-os»</strong></a>
     <br />
     <br />
     <a href="https://www.youtube.com/watch?v=6FuxBxxE1BY&list=PLudZsmb7OiyAGXp-oUohZAOVDmUUfJEwd">Confira as aulas</a>
-    Â·
     <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/issues">Achou algum Bug</a>
-    Â·
-    <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/issues">Solicite alguma mudanÃ§a</a>
+    <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/issues">Solicite alguma mudança</a>
   </p>
 </p>
 
@@ -26,7 +24,7 @@
 
  Finanças quantitativas e engenharia financeira são as áreas de finanças que envolvem  a aplicação de ferramentas e métodos de finanças tradicionais, matemática, física, computação, economia e econometria à solução de problemas de interesse em áreas como gestão de investimentos e trading.
 
- Disponivel em https://www.youtube.com/watch?v=6FuxBxxE1BY&list=PLudZsmb7OiyAGXp-oUohZAOVDmUUfJEwd
+ Disponível em https://www.youtube.com/watch?v=6FuxBxxE1BY&list=PLudZsmb7OiyAGXp-oUohZAOVDmUUfJEwd
  
  Autor: Leandro Guerra - https://www.linkedin.com/in/leandroguerra1/ 
 
