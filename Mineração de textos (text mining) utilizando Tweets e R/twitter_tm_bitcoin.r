@@ -17,10 +17,9 @@ library(fpc)
 
 #####
 #Carregando os Tweets
-#Voce precisar ter uma conta no Twitter e autorizar
 #Limite de 18.000 tweets a cada 15 minutos
 bitcoin_tweets <- search_tweets(
-  "#bitcoin", n = 18000, include_rts = FALSE,lang = "en")
+  "#wallstreet", n = 7000, include_rts = FALSE,lang = "en")
 
 #Rapida visualizaçao - exemplo tirado da propia documentaçao da rtweet
 bitcoin_tweets %>%
@@ -45,6 +44,7 @@ bitcoin_text_corpus <- tm_map(bitcoin_text_corpus,
 bitcoin_text_corpus <- tm_map(bitcoin_text_corpus, content_transformer(tolower))
 bitcoin_text_corpus <- tm_map(bitcoin_text_corpus, removePunctuation)
 bitcoin_text_corpus <- tm_map(bitcoin_text_corpus,removeWords, stopwords("english"))
+bitcoin_text_corpus <- tm_map(bitcoin_text_corpus,removeWords, c("wallstreet","wall","street","will"))
 
 #Primeira visualizaçao
 wordcloud(bitcoin_text_corpus,min.freq=2,max.words=100)
@@ -76,7 +76,7 @@ bitcoin_frequencia
 bitcoin_plot <- data.frame(word=names(bitcoin_frequencia), freq=bitcoin_frequencia)  
 
 #Criando o grafico
-grafico <- ggplot(subset(bitcoin_plot, bitcoin_frequencia>800), aes(x = reorder(word, -freq), y = freq)) +
+grafico <- ggplot(subset(bitcoin_plot, bitcoin_frequencia>300), aes(x = reorder(word, -freq), y = freq)) +
   geom_bar(stat = "identity") + 
   theme(axis.text.x=element_text(angle=45, hjust=1)) +
   ggtitle("Grafico de barras com os termos mais frequentes") +
@@ -98,7 +98,7 @@ bitcoin_frequencia
 bitcoin_plot <- data.frame(word=names(bitcoin_frequencia), freq=bitcoin_frequencia)  
 
 #Criando o grafico
-grafico <- ggplot(subset(bitcoin_plot, bitcoin_frequencia>800), aes(x = reorder(word, -freq), y = freq)) +
+grafico <- ggplot(subset(bitcoin_plot, bitcoin_frequencia>300), aes(x = reorder(word, -freq), y = freq)) +
   geom_bar(stat = "identity") + 
   theme(axis.text.x=element_text(angle=45, hjust=1)) +
   ggtitle("Grafico de barras com os termos mais frequentes") +
@@ -122,12 +122,14 @@ plot(dendograma, hang=-1,main = "Dendograma Tweets Bitcoin - Outspoken Market",
      ylab = "Altura")  
 
 #Para ler melhor o Dendograma
-groups <- cutree(dendograma, k=5)
-rect.hclust(dendograma, k=5, border="red")   
+clusters <- 3
+groups <- cutree(dendograma, k=clusters)
+rect.hclust(dendograma, k=clusters, border="red")   
 
 #Clustering 2 - K-Means
-kmeans_btc <- kmeans(distancia, 5)   
+kmeans_btc <- kmeans(distancia, clusters)   
 clusplot(as.matrix(distancia), kmeans_btc$cluster, color=T, shade=T, labels=3, lines=0,
          main = "K-Means Tweets Bitcoin - Outspoken Market",
          xlab = "PC1",
          ylab = "PC2") 
+
