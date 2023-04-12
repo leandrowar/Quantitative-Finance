@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/leandrowar/Computational-Finance">
+  <a href="https://github.com/leandrowar/Quantitative-Finance">
     <img src="https://user-images.githubusercontent.com/4582415/102086960-26251100-3e19-11eb-8bcb-47c01dd92e1b.png" alt="Logo" width="100" height="100">
   </a>
 <p align="center">
