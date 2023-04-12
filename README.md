@@ -5,26 +5,26 @@
     <img src="https://user-images.githubusercontent.com/4582415/102086960-26251100-3e19-11eb-8bcb-47c01dd92e1b.png" alt="Logo" width="100" height="100">
   </a>
 <p align="center">
-  <h3 align="center">Computational Finance</h3>
+  <h3 align="center">Quantitative Finance</h3>
 
   <p align="center">
-    Arquivos da playlist de FinanÁas Quantitativas
+    Arquivos da playlist de Finan√ßas Quantitativas
     <br />
     <a href="https://github.com/leandrowar/Computational-Finance"><strong>Consulte-os</strong></a>
     <br />
     <br />
-    <a href="https://www.youtube.com/watch?v=6FuxBxxE1BY&list=PLudZsmb7OiyAGXp-oUohZAOVDmUUfJEwd">Confira as aulas - </a>
-    <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/issues">Achou algum Bug - </a>
-    <a href="https://github.com/leandrowar/Intro-R-Financas-Quantitativas/issues">Solicite alguma mudanÁa</a>
+    <a href="https://www.youtube.com/outspokenmarket">Confira as aulas - </a>
+    <a href="https://github.com/leandrowar/Quantitative-Finance/issues">Achou algum Bug - </a>
+    <a href="https://github.com/leandrowar/Quantitative-Finance/issues">Solicite alguma mudan√ßa</a>
   </p>
 </p>
 
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
- FinanÁas quantitativas e engenharia financeira s„o as ·reas de finanÁas que envolvem  a aplicaÁ„o de ferramentas e mÈtodos de finanÁas tradicionais, matem·tica, fÌsica, computaÁ„o, economia e econometria ‡ soluÁ„o de problemas de interesse em ·reas como gest„o de investimentos e trading.
+ Finan√ßas quantitativas e engenharia financeira s√£o as √°reas de finan√ßas que envolvem  a aplica√ß√£o de ferramentas e m√©todos de finan√ßas tradicionais, matem√°tica, f√≠sica, computa√ß√£o, economia e econometria √† solu√ß√£o de problemas de interesse em √°reas como gest√£o de investimentos e trading.
 
- DisponÌvel em https://www.youtube.com/watch?v=6FuxBxxE1BY&list=PLudZsmb7OiyAGXp-oUohZAOVDmUUfJEwd
+ Dispon√≠vel em https://www.youtube.com/outspokenmarket
  
  Autor: Leandro Guerra - https://www.linkedin.com/in/leandroguerra1/ 
 
