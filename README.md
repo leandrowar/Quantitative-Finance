@@ -10,7 +10,7 @@
   <p align="center">
     Arquivos dos cursos de Finanças Quantitativas
     <br />
-    <a href="https://github.com/leandrowar/Quantiative-Finance"><strong>Consulte-os</strong></a>
+    <a href="https://github.com/leandrowar/Quantitative-Finance"><strong>Consulte-os</strong></a>
     <br />
     <br />
     <a href="https://www.youtube.com/outspokenmarket">Confira as aulas - </a>
