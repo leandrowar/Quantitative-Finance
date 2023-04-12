@@ -8,7 +8,7 @@
   <h3 align="center">Quantitative Finance</h3>
 
   <p align="center">
-    Arquivos da playlist de Finanças Quantitativas
+    Arquivos dos cursos de Finanças Quantitativas
     <br />
     <a href="https://github.com/leandrowar/Computational-Finance"><strong>Consulte-os</strong></a>
     <br />
@@ -22,7 +22,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
- Finanças quantitativas e engenharia financeira são as áreas de finanças que envolvem  a aplicação de ferramentas e métodos de finanças tradicionais, matemática, física, computação, economia e econometria à solução de problemas de interesse em áreas como gestão de investimentos e trading.
+ Finanças quantitativas e engenharia financeira são as áreas de finanças que envolvem a aplicação de ferramentas e métodos de finanças tradicionais, matemática, física, computação, economia e econometria à solução de problemas de interesse em áreas como gestão de investimentos e trading.
 
  Disponível em https://www.youtube.com/outspokenmarket
  
