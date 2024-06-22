@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/leandrowar/Quantitative-Finance">
-    <img src="https://www.outspokenmarket.com/uploads/8/8/2/3/88233040/editor/omnp-logo-600-x-600-px.png" alt="Logo" width="100" height="100">
+    <img src="https://www.outspokenmarket.com/uploads/8/8/2/3/88233040/editor/omnp-logo-600-x-600-px.png?1641227947" alt="Logo" width="100" height="100">
   </a>
 <p align="center">
   <h3 align="center">Quantitative Finance</h3>
